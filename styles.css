@@ -1,0 +1,23 @@
+body {
+    font-family: "Newsreader", serif;
+    margin: 20px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background: linear-gradient(to bottom right, #f3c5c0, #ffe1c2);
+}
+
+h1, h2, h3 {
+    color: rgb(139, 75, 75);
+}
+
+.project-link-div {
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid rgb(139, 75, 75);
+    border-radius: 8px;
+    background-color: #ffffff5b;
+}
+
+a {
+    color:  rgb(139, 75, 75);
+}
